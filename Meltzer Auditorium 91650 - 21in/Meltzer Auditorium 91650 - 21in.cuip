@@ -1,0 +1,32 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-07-09 09:55:32.117851-04:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-07-09 09:55:32.117837-04:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "Meltzer Auditorium 91650 - 21in"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.16.0"
+Id = "cde348d4-f577-4875-ab0d-ec536d9f43d9"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DeviceResolutionIds = "G-L-DGE1000-3840-2160"
+ipId = "03"
+ProjectSchemaVersion = "6"
+

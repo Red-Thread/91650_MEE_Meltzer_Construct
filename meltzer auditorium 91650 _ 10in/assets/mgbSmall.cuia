@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-07-09 09:55:19.413069-04:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-07-09 09:55:19.413063-04:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "d328b262-7cef-4b75-801b-872d52e3f6d7"
+Name = "mgbSmall"
+SourceUri = "mgbSmall.png"
+AspectRatio = "7.17"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

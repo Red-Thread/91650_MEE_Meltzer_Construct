@@ -1,0 +1,30 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-06-18 11:31:14.096375-04:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-06-18 11:31:14.096368-04:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+
+
+{Css}
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "welcome"
+PageMode = "absolute"
+Id = "664dbea5-3381-4244-819a-3ea51523ccfd"
+StartPage = "True"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "0"
+DisplayBackgroundColor = "False"
+
+

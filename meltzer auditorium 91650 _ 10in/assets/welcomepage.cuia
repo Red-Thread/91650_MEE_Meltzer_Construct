@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-07-09 09:55:19.452419-04:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-07-09 09:55:19.452415-04:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "40ddd463-c365-43fd-acda-49d6a35dbb2a"
+Name = "welcomepage"
+SourceUri = "welcomepage.jpg"
+AspectRatio = "1.5993930197268589"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

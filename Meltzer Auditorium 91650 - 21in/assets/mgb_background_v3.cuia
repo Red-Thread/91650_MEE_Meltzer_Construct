@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.601.10.0"
+Created = 2026-07-09 09:55:32.165991-04:00
+LastModifiedByAppHost = "2.601.10.0"
+Modified = 2026-07-09 09:55:32.165987-04:00
+CreatedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4201.17.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "88ea593a-cf59-45b9-b175-8af9b6fbd191"
+Name = "mgb_background_v3"
+SourceUri = "mgb_background_v3.png"
+AspectRatio = "1.6"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

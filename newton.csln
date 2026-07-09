@@ -1,0 +1,35 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.601.10.0",
+    "_created": "2025-12-03T13:47:31.784429-05:00",
+    "_lastModifiedByAppHost": "2.601.10.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2026-07-09T09:55:32.24296-04:00"
+  },
+  "_solution": {
+    "_name": "newton",
+    "_projects": [
+      {
+        "_name": "Meltzer Auditorium 91650 - 21in",
+        "_filename": "Meltzer Auditorium 91650 - 21in/Meltzer Auditorium 91650 - 21in.cuip",
+        "_datetime": "2026-07-09T13:55:32.242398Z"
+      },
+      {
+        "_name": "meltzer auditorium 91650 _ 10in",
+        "_filename": "meltzer auditorium 91650 _ 10in/meltzer auditorium 91650 _ 10in.cuip",
+        "_datetime": "2026-07-09T13:55:19.467322Z"
+      },
+      {
+        "_name": "newton",
+        "_filename": "newton/newton.cuip",
+        "_datetime": "2026-06-18T23:27:56.550612Z"
+      },
+      {
+        "_name": "newton copy",
+        "_filename": "newton copy/newton copy.cuip",
+        "_datetime": "2026-06-18T15:36:39.79322Z"
+      }
+    ]
+  }
+}

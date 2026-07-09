@@ -2,12 +2,12 @@
 Schema = "1.0.0.0"
 CreatedByAppHost = "2.601.10.0"
 Created = 2026-07-09 09:55:19.289703-04:00
-LastModifiedByAppHost = "2.601.10.0"
-Modified = 2026-07-09 09:55:19.289675-04:00
+LastModifiedByAppHost = "2.1301.14.0"
+Modified = 2026-07-09 12:32:14.018821-04:00
 CreatedByProjectApp = "1.4201.17.0"
-LastModifiedByProjectApp = "1.4201.17.0"
+LastModifiedByProjectApp = "1.4701.7.0"
 MinimumProjectApp = "1.2600.1"
-MinimumAppHost = "2.0.0"
+MinimumAppHost = "2.901.0"
 
 {DeviceResolutionSource}
 []
@@ -26,7 +26,10 @@ SdkId = "CH5:2.16.0"
 Id = "9d4bda80-f5a9-490c-b791-6aa8ab251f7c"
 RuntimeThemeJoin = "0"
 RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
 DeviceResolutionIds = "D-L-TSW1070-1280-0800"
 ipId = "19"
-ProjectSchemaVersion = "6"
+ProjectSchemaVersion = "12"
+ContractIsStale = "true"
 

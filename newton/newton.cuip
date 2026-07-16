@@ -3,7 +3,7 @@ Schema = "1.0.0.0"
 CreatedByAppHost = "2.601.10.0"
 Created = 2025-12-03 13:47:31.777757-05:00
 LastModifiedByAppHost = "2.1301.14.0"
-Modified = 2026-07-09 10:37:14.200284-04:00
+Modified = 2026-07-10 15:39:50.44543-04:00
 CreatedByProjectApp = "1.4201.17.0"
 LastModifiedByProjectApp = "1.4701.7.0"
 MinimumProjectApp = "1.2600.1"
@@ -31,5 +31,5 @@ DefaultFontFamily = "Roboto"
 DeviceResolutionIds = "D-L-TSW1070-1280-0800"
 ipId = "03"
 ProjectSchemaVersion = "12"
-ContractIsStale = "true"
+ContractIsStale = "false"
 
